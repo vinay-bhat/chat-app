@@ -22,7 +22,7 @@ h1 {
 
 div#change_username,
 section#input_zone {
-    border: 5px solid rgb(36, 135, 228);
+    border: 1px solid rgb(130, 88, 250);
 }
 
 div#change_username {
@@ -32,7 +32,7 @@ div#change_username {
 }
 
 section#chatroom {
-    border: 5px solid #8258FA;
+    border: 1px solid #8258FA;
     height: 85%;
     overflow: auto;
 }
