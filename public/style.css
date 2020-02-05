@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    margin: 0px;
+    margin: 40px;
     height: 80%;
 }
 
@@ -22,6 +22,7 @@ h1 {
 
 div#change_username,
 section#input_zone {
+    margin: 5px 0 5px 0;
     border: 1px solid rgb(130, 88, 250);
 }
 
@@ -53,7 +54,7 @@ section#input_zone {
 
 input#username {
     font-family: 'Comfortaa', sans-serif;
-    padding: 5px;
+    padding: 10px;
 
 }
 
@@ -85,9 +86,9 @@ p.message {
 }
 
 .message:nth-child(even) {
-    background-color: #81DAF5;
+    background-color: #EEEEEE;
 }
 
 .message:nth-child(odd) {
-    background-color: #81BEF7;
+    background-color: #fff;
 }
