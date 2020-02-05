@@ -71,6 +71,10 @@ button#send_message {
     width: 10%;
 }
 
+button#send_username {
+    padding: 5px;
+}
+
 p.message {
     margin: 0px;
     width: 100%;
